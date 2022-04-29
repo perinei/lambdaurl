@@ -22,7 +22,7 @@
 # in the Authorization header.
 import sys, os, base64, datetime, hashlib, hmac 
 import requests # pip install requests
-import boto3
+import boto3 # pip install boto3
 
 # ************* REQUEST VALUES *************
 
